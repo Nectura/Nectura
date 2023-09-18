@@ -6,7 +6,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 * Self-taught software engineer with over 5 years of experience.
 * Committed to writing clean, efficient code and staying up-to-date with cutting-edge technologies.
@@ -15,7 +15,7 @@
 
 ---
 
-### :hammer_and_wrench: Core Languages and Tools :
+### :hammer_and_wrench: Core Languages and Tools
 
 <div>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
@@ -33,7 +33,7 @@
 
 ---
 
-### 📝 Full Technology Experience :
+### 📝 Full Technology Experience
 
 - [Backend] C# .NET / ASP.NET / Node.js
 - [Frontend] React / Angular / ASP.NET MVC
@@ -47,7 +47,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nectura&theme=dark&background=00000000&border=FFFFFF30" /></a> &nbsp;
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nectura&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" /></a>
