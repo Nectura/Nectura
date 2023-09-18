@@ -28,7 +28,8 @@
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/></a>&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
@@ -49,6 +50,5 @@
 
 ### :fire: My Stats
 
-<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nectura&theme=dark&background=00000000&border=FFFFFF30" /></a> &nbsp;
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nectura&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" /></a>
+<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nectura&theme=dark&background=00000000&border=FFFFFF30" /></a>
 
