@@ -1,16 +1,55 @@
-### Hi there 👋
+<div align="center">
+  <a href="#">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </a>
+</div>
 
-<!--
-**Nectura/Nectura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Self-taught software engineer with over 5 years of experience.
+* Committed to writing clean, efficient code and staying up-to-date with cutting-edge technologies.
+* Developed a production-grade application with diverse features and a sizable user base.
+* Strong interest in video games, cyber security, and programming.
+
+---
+
+### :hammer_and_wrench: Core Languages and Tools :
+
+<div>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>&nbsp;
+</div>
+
+---
+
+### 📝 Full Technology Experience :
+
+- [Backend] C# .NET / ASP.NET / Node.js
+- [Frontend] React / Angular / ASP.NET MVC
+- [Web] HTML5 / CSS / JS / TS / TSX
+- [Database] MySQL / MSSQL / MariaDB / SQLite / Redis / CosmosDB
+- [Cloud Providers] Azure
+- [Pub/Sub] MQTT / Azure Service Bus
+- [CI/CD] GitHub Actions / Azure DevOps
+- [Project Management] Jira / Azure DevOps
+- [Auth] JWT / Azure Active Directory / Firebase
+
+---
+
+### :fire: My Stats :
+
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nectura&theme=dark&background=00000000&border=FFFFFF30" /> &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nectura&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" />
+</a>
