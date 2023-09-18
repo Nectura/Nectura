@@ -49,7 +49,6 @@
 
 ### :fire: My Stats :
 
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nectura&theme=dark&background=00000000&border=FFFFFF30" /> &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nectura&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" />
-</a>
+<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nectura&theme=dark&background=00000000&border=FFFFFF30" /></a> &nbsp;
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nectura&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" /></a>
+
