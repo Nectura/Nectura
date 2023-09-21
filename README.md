@@ -40,6 +40,7 @@
 - [Frontend] React / Angular / ASP.NET MVC
 - [Web] HTML5 / CSS / JS / TS / TSX
 - [Database] MySQL / MSSQL / MariaDB / SQLite / Redis / CosmosDB
+- [ORM] Entity Framework / Sequelize / Prisma
 - [Cloud Providers] Azure
 - [Pub/Sub] MQTT / Azure Service Bus
 - [CI/CD] GitHub Actions / Azure DevOps
