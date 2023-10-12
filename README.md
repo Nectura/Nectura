@@ -42,7 +42,7 @@
 - [Web] HTML5 / CSS / JS / TS / TSX
 - [Database] MySQL / MSSQL / MariaDB / PostgreSQL / SQLite / Redis / CosmosDB
 - [ORM] Entity Framework / Prisma / Sequelize
-- [Cloud Providers] Azure
+- [Cloud Providers] Azure / Vercel
 - [Pub/Sub] MQTT / Azure Service Bus
 - [CI/CD] GitHub Actions / Azure DevOps
 - [Project Management] Jira / Azure DevOps
