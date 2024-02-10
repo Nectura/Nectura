@@ -47,4 +47,4 @@
 - [CI/CD] GitHub Actions / Azure DevOps
 - [Project Management] Jira / Azure DevOps
 - [Auth] JWT / Azure Active Directory / Firebase
-- [Containerization / Orchestration] Docker / Kubernetes
+- [Containerization / Orchestration] Docker
