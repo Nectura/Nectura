@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me
 
-* Self-taught software engineer with 4 years of professional experience.
+* Self-taught software engineer with over 6 years of professional experience.
 * Committed to writing clean, efficient code and staying up-to-date with cutting-edge technologies.
 * Developed multiple production-grade applications with diverse features.
 * Strong interest in video games, cyber security, and programming.
@@ -30,7 +30,7 @@
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
-  <!-- <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp; -->
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
@@ -38,7 +38,7 @@
 ### 📝 Full Technology Experience
 
 - [Backend] C# .NET / ASP.NET / Node.js
-- [Frontend] React / Angular / ASP.NET MVC
+- [Frontend] React / Vue / Angular / ASP.NET MVC
 - [Web] HTML5 / CSS / JS / TS / TSX
 - [Database] MySQL / MSSQL / MariaDB / PostgreSQL / SQLite / Redis / CosmosDB
 - [ORM] Entity Framework / Prisma / Sequelize
@@ -47,4 +47,4 @@
 - [CI/CD] GitHub Actions / Azure DevOps
 - [Project Management] Jira / Azure DevOps
 - [Auth] JWT / Azure Active Directory / Firebase
-- [Containerization / Orchestration] Docker
+- [Containerization / Orchestration] Docker / Kubernetes
