@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me
 
-* Self-taught software engineer with over 6 years of professional experience.
+* Self-taught software engineer with over 4 years of professional experience.
 * Committed to writing clean, efficient code and staying up-to-date with cutting-edge technologies.
 * Developed multiple production-grade applications with diverse features.
 * Strong interest in video games, cyber security, and programming.
