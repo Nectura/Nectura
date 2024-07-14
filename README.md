@@ -38,13 +38,13 @@
 ### 📝 Full Technology Experience
 
 - [Backend] C# .NET / ASP.NET / Node.js
-- [Frontend] React / Vue / Angular / ASP.NET MVC
-- [Web] HTML5 / CSS / JS / TS / TSX
-- [Database] MySQL / MSSQL / MariaDB / PostgreSQL / SQLite / Redis / CosmosDB
-- [ORM] Entity Framework / Prisma / Sequelize
-- [Cloud Providers] Azure / Vercel
+- [Frontend] React / Angular / ASP.NET MVC
+- [Web] HTML5 / CSS / JS / TS
+- [Database] MySQL / MariaDB / MSSQL / PostgreSQL / SQLite / Redis / CosmosDB
+- [ORM] Entity Framework / Prisma
+- [Cloud Providers] Azure / Vercel / Netlify
 - [Pub/Sub] MQTT / Azure Service Bus
-- [CI/CD] GitHub Actions / Azure DevOps
-- [Project Management] Jira / Azure DevOps
+- [CI/CD] GitHub Actions / Azure DevOps / GitLab Pipelines
+- [Project Management] Jira / Azure DevOps / Linear / Trello
 - [Auth] JWT / Azure Active Directory / Firebase
 - [Containerization / Orchestration] Docker / Kubernetes
