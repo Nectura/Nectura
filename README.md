@@ -7,11 +7,16 @@
 ---
 
 ### :man_technologist: About Me
+#### Professional Experience
+- Highly experienced in Backend Development, especially with C# and Azure services.<br/>
+- Proficient in Frontend Development using React and ASP.NET MVC.<br/>
+- Creator of two successful chatbots in different sectors, with a combined total of over 30k active users.<br/>
 
-* Self-taught software engineer with over 4 years of professional experience.
-* Committed to writing clean, efficient code and staying up-to-date with cutting-edge technologies.
-* Developed multiple production-grade applications with diverse features.
-* Strong interest in video games, cyber security, and programming.
+#### Personal Strengths
+- Fast learner, independent, and self-taught.<br/>
+- Self-motivated with a strong ability to collaborate in teams.<br/>
+- Committed, responsible, and highly detail-oriented with a focus on precision.<br/>
+- Curious and eager to learn new areas.
 
 ---
 
