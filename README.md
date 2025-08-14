@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me
 
-I'm a software engineer with 7 years of experience building backend systems and full-stack applications. I work primarily with C# .NET and Azure cloud services, and I've founded two community projects that now have over 30,000 active users combined. Most recently, I worked on Microsoft's Azure Log Analytics platform, maintaining production systems and contributing to system design.
+I'm a software engineer with 7 years of experience building backend systems and full-stack applications. My main focus is C# .NET and Azure cloud services, and I've founded two community projects that now have over 30,000 active users combined.
 
 #### Professional Experience
 - **7+ years** in Backend & Full Stack Development<br/>
