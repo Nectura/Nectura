@@ -15,7 +15,6 @@ I'm a software engineer with 7 years of experience building backend systems and 
 - Highly experienced with **C# .NET** and **Azure** cloud services<br/>
 - Proficient in Frontend Development using **React** and **ASP.NET MVC**<br/>
 - **Founder** of two successful community projects with **30k+ active users**<br/>
-- Recent experience at **Microsoft** working on Azure Log Analytics<br/>
 
 #### Personal Strengths
 - Fast learner, independent, and self-taught<br/>
