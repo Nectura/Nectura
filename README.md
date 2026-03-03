@@ -48,7 +48,7 @@ Software engineer with 7+ years of experience building backend systems and full-
 - C# | .NET Core | ASP.NET | Node.js | Entity Framework | React | Docker | Azure DevOps
 
 **Cloud & Data**
-- Azure Functions | Service Bus | Key Vault | CosmosDB | Redis | Microservices | Agile/Scrum
+- Azure Functions | Service Bus | Key Vault | CosmosDB | Redis | Microservices
 
 **Full Stack**
 - TypeScript | JavaScript | React | REST APIs | gRPC | CI/CD Pipelines | GitLab Pipelines
