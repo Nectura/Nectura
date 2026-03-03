@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me
 
-Software engineer with 6+ years of experience building backend systems and full-stack applications, with a main focus on C# .NET and Azure cloud services. Founder of two community projects, including MapleStory MVP Detector with over 30,000 active users. Most recently worked on Microsoft's Azure Log Analytics platform, maintaining production systems and contributing to system design.
+Software engineer with 6+ years of experience building backend systems and full-stack applications, with a main focus on C# .NET and Azure cloud services. Founder of two community projects, including MapleStory MVP Detector with over 30,000 active users. Most recently worked on Microsoft, maintaining production systems and contributing to system design.
 
 #### Professional Experience
 - **6+ years** in Full-Stack Software Development<br/>
