@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me
 
-I'm a software engineer with 5+ years of experience building production systems and full-stack applications. My main focus is C# .NET and Azure cloud services, and I've built and scaled a community platform to over 30,000 active users.
+I'm a software engineer with 6+ years of experience building production systems and full-stack applications. My main focus is C# .NET and Azure cloud services, and I've built and scaled a community platform to over 30,000 active users.
 
 #### Professional Experience
 - **5+ years** in Full-Stack Software Development<br/>
