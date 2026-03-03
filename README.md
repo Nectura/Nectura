@@ -11,7 +11,7 @@
 Software engineer with 7+ years of experience building backend systems and full-stack applications, with a main focus on C# .NET and Azure cloud services. Founder of two community projects, including MapleStory MVP Detector with over 30,000 active users. Most recently worked for Microsoft, maintaining production systems and contributing to system design.
 
 #### Professional Experience
-- **6+ years** in Full-Stack Software Development<br/>
+- **7+ years** in Full-Stack Software Development<br/>
 - Highly experienced with **C# .NET** and **Azure** cloud services<br/>
 - Contributed to production infrastructure at **Microsoft**<br/>
 - **Founder** of two community projects with **30,000+ active users**<br/>
