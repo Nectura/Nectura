@@ -51,7 +51,7 @@ Software engineer with 7+ years of experience building backend systems and full-
 - Azure Functions | Service Bus | Key Vault | CosmosDB | Redis | Microservices
 
 **Full Stack**
-- TypeScript | JavaScript | React | REST APIs | gRPC | CI/CD Pipelines | GitLab Pipelines
+- TypeScript | JavaScript | React | REST APIs | gRPC | CI/CD Pipelines
 
 **Databases**
 - SQL Server | PostgreSQL | CosmosDB | Redis
